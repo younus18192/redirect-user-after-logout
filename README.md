@@ -1,0 +1,1 @@
+# redirect-user-after-logout
